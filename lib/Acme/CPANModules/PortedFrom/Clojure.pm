@@ -25,3 +25,13 @@ _
 # ABSTRACT:
 
 =head1 DESCRIPTION
+
+
+=head1 prepend:SEE ALSO
+
+More on the same theme of modules ported from other languages:
+L<Acme::CPANModules::PortedFrom::Java>,
+L<Acme::CPANModules::PortedFrom::NPM>,
+L<Acme::CPANModules::PortedFrom::PHP>,
+L<Acme::CPANModules::PortedFrom::Python>,
+L<Acme::CPANModules::PortedFrom::Ruby>.
