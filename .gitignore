@@ -2,3 +2,4 @@ Acme-CPANModules-PortedFrom-Clojure-*
 .build
 *~
 nytprof*
+.DS_Store
