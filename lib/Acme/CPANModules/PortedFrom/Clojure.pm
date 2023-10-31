@@ -1,12 +1,14 @@
 package Acme::CPANModules::PortedFrom::Clojure;
 
+use strict;
+
 # AUTHORITY
 # DATE
 # DIST
 # VERSION
 
 our $LIST = {
-    summary => "Modules/applications that are ported from (or inspired by) ".
+    summary => "List of modules/applications that are ported from (or inspired by) ".
         "Clojure",
     description => <<'_',
 
