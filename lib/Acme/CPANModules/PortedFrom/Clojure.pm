@@ -20,6 +20,9 @@ _
             module => 'String::CamelSnakeKebab',
             summary => 'camel-snake-kebab',
         },
+        {
+            module => 'Sub::Fp',
+        },
     ],
 };
 
